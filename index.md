@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to Xiaopeng's Happy Store!!
 
 You can use the [editor on GitHub](https://github.com/HappyPeng02/Happy-Store/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
@@ -35,3 +35,24 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+<!DOCTYPE html>
+<html lang="zh_CN">
+<head>
+  <title>hello，我是小彭鸭</title>
+</head>
+<body>
+  <p align="center"><font size="7" color="#0000ff">嘿嘿！</font></p>
+  <p align="center"><font size="5" color="#0000ff">XiaoPeng</font></p>
+  <p align="center"><font size="7" color="#0000ff">窝窝头</font></p>
+  <p align="center"><font size="7" color="#0000ff">一块钱四个</font></p>
+  <p align="center"><font size="7" color="#0000ff">嘿嘿！</font></p>
+  <p align="center"><font size="7" color="#0000ff">嘿！</font></p>
+  <p align="center"><font size="7" color="#0000ff">！</font></p>
+  <p align="center"><font size="7" color="#0000ff">是的是的</font></p>
+  <p align="center"><font size="7" color="#0000ff">我是小彭</font></p>
+  <p align="center"><font size="7" color="#0000ff">这是我做的第一个网页</font></p>
+  <p align="center"><font size="7" color="#0000ff">如果我让你打开它</font></p>
+  <p align="center"><font size="7" color="#0000ff">祝你天天开心鸭！</font></p>
+  <p align="center"><font size="7" color="#0000ff">小彭2020.01.09</font></p>
+</body>
+</html>
